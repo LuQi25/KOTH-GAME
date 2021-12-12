@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 17b9658cac50254409913557a3a1412d
+  - enabled: 1
+    path: Assets/Scenes/KOTH 1.0.unity
+    guid: 3311ff00b56d0bc4595aadbc8958f76b
+  - enabled: 1
+    path: Assets/Scenes/KOTH 2.0.unity
+    guid: 39768edbe2f950f41b86abd5bad0663a
+  - enabled: 1
+    path: Assets/Scenes/KOTH 3.0.unity
+    guid: 0dcbc9e76c1b3fe4aad9647a005bd4de
+  - enabled: 1
+    path: Assets/Scenes/INTRO GAME.unity
+    guid: 13e3578f52508be48995d6c4aa2dfde5
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 75d7212dc899a88469df2f789807179a
+  - enabled: 1
+    path: Assets/Scenes/KOTH 2.5.unity
+    guid: ff63d7b7d2335e54d96484197d1c2142
+  - enabled: 0
+    path: Assets/Scenes/KOTH.unity
+    guid: ab10c83a5dbcb284eabdc324aaf335c0
+  m_configObjects: {}
